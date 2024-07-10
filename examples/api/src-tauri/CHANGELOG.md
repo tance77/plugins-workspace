@@ -1,5 +1,13 @@
 # Changelog
 
+## \[2.0.0-beta.13]
+
+### Dependencies
+
+- Upgraded to `biometric@2.0.0-beta.8`
+- Upgraded to `global-shortcut@2.0.0-beta.8`
+- Upgraded to `http@2.0.0-beta.12`
+
 ## \[2.0.0-beta.12]
 
 ### Dependencies

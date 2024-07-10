@@ -1,5 +1,13 @@
 # Changelog
 
+## \[2.0.0-beta.11]
+
+### Dependencies
+
+- Upgraded to `global-shortcut-js@2.0.0-beta.7`
+- Upgraded to `http-js@2.0.0-beta.8`
+- Upgraded to `os-js@2.0.0-beta.7`
+
 ## \[2.0.0-beta.10]
 
 ### Dependencies

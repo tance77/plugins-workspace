@@ -1,5 +1,9 @@
 # Changelog
 
+## \[2.0.0-beta.8]
+
+- [`08243e94`](https://github.com/tauri-apps/plugins-workspace/commit/08243e94c72fd39df0ad11714d0678efaf69a823) ([#1532](https://github.com/tauri-apps/plugins-workspace/pull/1532) by [@naman-crabnebula](https://github.com/tauri-apps/plugins-workspace/../../naman-crabnebula)) Provide more context to the `AuthOptions` in the Biometric Plugin for Rust API documentation.
+
 ## \[2.0.0-beta.6]
 
 - [`76daee7a`](https://github.com/tauri-apps/plugins-workspace/commit/76daee7aafece34de3092c86e531cf9eb1138989) ([#1512](https://github.com/tauri-apps/plugins-workspace/pull/1512) by [@renovate](https://github.com/tauri-apps/plugins-workspace/../../renovate)) Update to tauri beta.23.
